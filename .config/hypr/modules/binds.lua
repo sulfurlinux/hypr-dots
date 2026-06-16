@@ -6,7 +6,7 @@
 local terminal    = "kitty"
 local fileManager = "dolphin"
 local menu        = "rofi -show drun"
--- local menu = "/home/sulfur/.config/waybar/scripts/launch.sh"
+-- local menu = "/home/sulfur/.config/hypr/scripts/menu.sh"
 
 ---------------------
 ---- KEYBINDINGS ----
