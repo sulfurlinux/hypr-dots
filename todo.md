@@ -1,1 +1,1 @@
--[] move the menu into a shell script
+-[ ] move the menu into a shell script
