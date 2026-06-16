@@ -1,2 +1,2 @@
 - [ ] move the menu into a shell script
-- [x] intigrate matugen
+- [ ] intigrate matugen
