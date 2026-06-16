@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pkill rofi&
-rofi -show drun
+pkill rofi
+rofi -show drun &
